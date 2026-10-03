@@ -40,6 +40,8 @@
 - Add a dependency only if it removes substantial code or risk, and explain why
 - Delete dead code instead of commenting it out
 - Do not reformat untouched lines
+- Write a simple, clear, concise, one-sentence comment above each line of code
+- Skip comments for closing-brace-only lines and do not add "End" comments
 
 ## Keep commits simple
 
